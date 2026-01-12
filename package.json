@@ -1,0 +1,31 @@
+{
+  "name": "solana_web3_token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "watch": "tsc --watch",
+    "start": "node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huluguai/solana-web3-ts-project.git"
+  },
+  "keywords": [
+    "solana",
+    "web3",
+    "token",
+    "typescript"
+  ],
+  "author": "xzx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huluguai/solana-web3-ts-project/issues"
+  },
+  "homepage": "https://github.com/huluguai/solana-web3-ts-project#readme",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
