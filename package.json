@@ -26,6 +26,10 @@
   },
   "homepage": "https://github.com/huluguai/solana-web3-ts-project#readme",
   "devDependencies": {
+    "@types/node": "^25.0.6",
     "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.98.0"
   }
 }
